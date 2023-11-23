@@ -12,8 +12,8 @@ export default class HeaderComponent extends Component {
         <header>
           <nav className="navbar navbar-expand-md navbar-dark bg-dark">
             <div>
-              <a href="http://egs41.net" className="navbar-brand">
-                kimdragon - jenkins
+              <a href="http://egs41.kr" className="navbar-brand">
+                Hello ECS
               </a>
             </div>
           </nav>
